@@ -423,3 +423,33 @@
         margin-bottom: 300px;
     }
 }
+
+
+@media(max-width: 576px) {
+    .section-two{
+        position: relative;
+        /* height: 800px; */
+        margin-bottom: 250px;
+    }
+    
+
+    .section-three .content{
+        margin-top: -10px;
+        position: relative;
+        height: 500px;
+    }
+
+    .section-three .content .heading{
+        position: absolute;
+        margin-top: 20px;
+    }
+
+    .section-three .content .desc{
+        position: absolute;
+        margin-top: 60px;
+    }
+    .section-three .content .social{
+        position: relative;
+        margin-bottom: 10px;
+    }
+}
