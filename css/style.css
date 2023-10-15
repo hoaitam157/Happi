@@ -424,26 +424,17 @@
     }
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 79d782a7ad36d5d8864f3f4385fc6f941a0047a0
 @media(max-width: 576px) {
     .section-two{
         position: relative;
         /* height: 800px; */
         margin-bottom: 250px;
     }
-<<<<<<< HEAD
-
     .section-two .boxes{
         position: relative;
         margin-left: 100px;
     }
-=======
->>>>>>> 79d782a7ad36d5d8864f3f4385fc6f941a0047a0
     
-
     .section-three .content{
         margin-top: -10px;
         position: relative;
@@ -463,8 +454,5 @@
         position: relative;
         margin-bottom: 10px;
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 79d782a7ad36d5d8864f3f4385fc6f941a0047a0
+
